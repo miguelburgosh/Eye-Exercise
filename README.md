@@ -6,7 +6,7 @@ This exercise will bring together JavaScript and CSS to create a dynamic experie
 
 ### :movie_camera: Demo
 
-[Try it!](https://miguelburgosh.github.io/Real-Time-Bus-Tracker/)
+[Try it!](https://miguelburgosh.github.io/Eye-Exercise/)
 
 ## :open_file_folder: Access
 
